@@ -1,4 +1,7 @@
 ## Hi there 👋
+### I'm Ethan Zhao
+
+[https://ethanzhao.us/]([url](https://ethanzhao.us/))
 
 <!--
 **EfinZhao/EfinZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
