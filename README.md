@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Ethan Zhao
 
-> Check out my website at [https://ethanzhao.us/]([https://ethanzhao.us/])
+> Check out my website at [https://ethanzhao.us/](https://ethanzhao.us/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
