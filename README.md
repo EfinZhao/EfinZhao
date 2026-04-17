@@ -16,3 +16,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<!--
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=EfinZhao&layout=donut-vertical&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=EfinZhao&layout=donut-vertical&theme=default">
+    <img style="height: 180px;" alt="Github Language Stats" src="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=EfinZhao&layout=donut-vertical&theme=dark">
+  </picture>
+</div> --!>
