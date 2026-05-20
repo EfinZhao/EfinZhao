@@ -5,8 +5,8 @@
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=EfinZhao&layout=donut&theme=dark&hide=javascript,html,routerosscript">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=EfinZhao&layout=donut&theme=default&hide=javascript,html,routerosscript">
-    <img style="height: 180px;" alt="Github Language Stats" src="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=EfinZhao&layout=donut&theme=dark&hide=javascript,html,routerosscript">
+    <source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg">
+    <img style="height: 180px;" alt="Github Language Stats" src="/github-metrics.svg">
   </picture>
 </div>
