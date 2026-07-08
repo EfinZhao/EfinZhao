@@ -19,4 +19,4 @@ Outside of work, I love skiing ⛷️, watching F1 🏎️, cooking 🍳, and ma
 
 ---
 
-- 📫 Work: [email](mailto:ethan.y.zhao.07@gmail.com)  Personal: [email](mailto:ethan.zhao.us@gmail.com)
+- 📫 Work: [ethan.y.zhao.07@gmail.com](mailto:ethan.y.zhao.07@gmail.com)  Personal: [ethan.zhao.us@gmail.com](mailto:ethan.zhao.us@gmail.com)
