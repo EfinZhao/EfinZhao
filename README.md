@@ -9,7 +9,7 @@
 
 I'm a 2nd year CS major at UC Irvine with an interest in AI and embedded systems!
 
-I'm currently researching V2I (Vehicle 🚗 to Infrastructure 🚦) connectivity and it's applications to autonomous driving 🤖 with HORBIA Institute for Mobility and Connectivity at UCI, while also building a formula SAE car with Anteater Formula Racing for the 26/27 season 🏁!
+I'm currently researching V2I (Vehicle 🚗 to Infrastructure 🚦) connectivity and it's applications to autonomous driving 🤖 with HORBIA Institute for Mobility and Connectivity at UCI, while also building a formula SAE car with Anteater Formula Racing for the 26/27 FASE season 🏁!
 
 Outside of work, I love skiing ⛷️, watching F1 🏎️, cooking 🍳, and making drinks 🍵!
 
