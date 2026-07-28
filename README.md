@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Ethan Zhao</h3>
 
 <p align="center">
-  <a href="https://www.ethanzhao.us">Website</a> •
+  <a href="https://ethanzhao.us">Website</a> •
   <a href="https://www.linkedin.com/in/ethan-y-zhao/">LinkedIn</a>
 </p>
 
