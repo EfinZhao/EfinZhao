@@ -7,20 +7,19 @@
 
 ---
 
-2nd year CS major at UCI with an interest in AI and embedded systems
+**2nd year CS major at UCI with an interest in AI and embedded systems**
 
 Currently:
-- Researching V2I (Vehicle to Infrastructure) autonomous vehicles @ UCI APEP (Advanced Power and Energy Program) 🍃
-- Developing a fast car with Anteater Formula Racing for the 26/27 FASE season as a Vehicle Dynamics Engineer 🏁
-- Building cool projects (see more [here](https://ethanzhao.us/blogs/f1-wheel)) 👀
+- 🍃 Researching V2I (Vehicle to Infrastructure) autonomous vehicles @ UCI APEP (Advanced Power and Energy Program)
+- 🏁 Developing a fast car with Anteater Formula Racing for the 26/27 FASE season as a Vehicle Dynamics Engineer
+- 👀 Building cool projects (see more [here](https://ethanzhao.us/blogs/f1-wheel))
 
-Prev @ Northrop Grumman 🛰️
+Previously:
+- 🛰️ Intern @ Northrop Grumman (Bravo to our Stars Award for outstanding leadership and exceptional performance, top <1%)
 
-Outside of work, I love skiing ⛷️, watching F1 🏎️, cooking 🍳, and making drinks 🍵!
-
-<p align="center">
-  <img src="./metrics.plugin.languages.svg" alt="Most used languages">
-</p>
+Hobbies:
+- ⛷️ Skiing
+- 🏎️ Go McLaren F1!
 
 ---
 
