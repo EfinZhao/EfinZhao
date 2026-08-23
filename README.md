@@ -7,9 +7,12 @@
 
 ---
 
-I'm a 2nd year CS major at UC Irvine with an interest in AI and embedded systems!
+2nd year CS major at UCI with an interest in AI and embedded systems
 
-I'm currently researching V2I (Vehicle 🚗 to Infrastructure 🚦) connectivity and it's applications to autonomous driving 🤖 with HORBIA Institute for Mobility and Connectivity at UCI, while also building a formula SAE car with Anteater Formula Racing for the 26/27 FASE season 🏁!
+Currently:
+- Researching V2I (Vehicle to Infrastructure) autonomous vehicles @ UCI APEP (Advanced Power and Energy Program) 🍃
+- Developing a fast car with Anteater Formula Racing for the 26/27 FASE season as a Vehicle Dynamics Engineer 🏁
+- Building cool projects (see more [here](https://ethanzhao.us/blogs/f1-wheel)) 👀
 
 Prev @ Northrop Grumman 🛰️
 
